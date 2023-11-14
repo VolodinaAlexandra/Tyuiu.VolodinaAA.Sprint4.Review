@@ -5,7 +5,7 @@ using Tyuiu.VolodinaAA.Sprint4.TaskReview.V10.Lib;
 namespace Tyuiu.VolodinaAA.Sprint4.TaskReview.V10.Test
 {
     [TestClass]
-    public class DataServiceTest
+    public class DataServiceTest  
     {
         [TestMethod]
         public void CheckCalculateValid()

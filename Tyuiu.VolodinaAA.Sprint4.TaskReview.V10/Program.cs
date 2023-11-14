@@ -38,7 +38,7 @@ namespace Tyuiu.VolodinaAA.Sprint4.TaskReview.V10
             int columns = Convert.ToInt32(Console.ReadLine());
 
             int[,] mtrx = new int[rows, columns];
-
+              
             int index = 0;
 
             Console.WriteLine("\nMассив: ");
